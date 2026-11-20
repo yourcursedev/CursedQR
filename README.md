@@ -23,6 +23,8 @@
 **CursedQR** is a flagship, offline Windows desktop studio for designing high-resolution, branded, and artistic QR codes. Built with **C# / .NET 8 WPF**, **SkiaSharp**, and **QRCoder**, it combines an obsidian-and-purple glassmorphic workspace with real-time scannability analysis, batch generation, and print-ready vector exports.
 
 ---
+## Note
+- Because the installer is not signed with a paid Code Signing Certificate, Windows SmartScreen may show an "Unknown publisher" warning. Click More info → Run anyway to proceed.
 
 ## 🚀 Features
 

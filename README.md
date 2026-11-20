@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your uploaded GitHub Social Preview banner -->
-<img src="assets/banner.png" alt="CursedQR Banner" width="100%" />
+<img src="preview.png" alt="CursedQR Banner" width="100%" />
 
 # CursedQR
 
